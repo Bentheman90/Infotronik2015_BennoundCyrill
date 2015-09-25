@@ -30,3 +30,13 @@
 
 # Debug files
 *.dSYM/
+/Debug/
+*.g_c
+*-g_x
+*xcwGeneratedFileSetLog
+/Generated_Code
+/Documentation
+/Static_Code
+/Debug
+ProjectInfo.xml
+/.settings
